@@ -1,0 +1,6 @@
+c:\users\travelmate 4750\documents\visual studio 2015\Projects\program\program\bin\Debug\program.exe.config
+c:\users\travelmate 4750\documents\visual studio 2015\Projects\program\program\bin\Debug\program.exe
+c:\users\travelmate 4750\documents\visual studio 2015\Projects\program\program\bin\Debug\program.pdb
+c:\users\travelmate 4750\documents\visual studio 2015\Projects\program\program\obj\Debug\program.csprojResolveAssemblyReference.cache
+c:\users\travelmate 4750\documents\visual studio 2015\Projects\program\program\obj\Debug\program.exe
+c:\users\travelmate 4750\documents\visual studio 2015\Projects\program\program\obj\Debug\program.pdb
